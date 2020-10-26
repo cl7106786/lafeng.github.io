@@ -56,8 +56,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 # 栈
-##最小栈（min stack）
-##两个栈变成队列
+## 最小栈（min stack）
+## 两个栈变成队列
 
 # 队列
 
@@ -74,9 +74,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 * 3 postOrder
 
 ### 平衡二叉树（balanced binary tree）
+* 1 检查二叉树是否平衡
+
+
+
 ### 二叉搜索树（binary search tree）
 ### 平衡二叉搜索树（balanced binary tree）
-
+===================
 # 算法
 ## 二分查找
 ### 二分查找变种
