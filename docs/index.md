@@ -74,7 +74,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 * 3 postOrder
 
 ### 平衡二叉树（balanced binary tree）
-* 1 检查二叉树是否平衡
+* 1 [检查二叉树是否平衡]https://leetcode-cn.com/problems/check-balance-lcci/
 
 
 
