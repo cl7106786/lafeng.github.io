@@ -46,6 +46,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # 基本的数据结构
 
 # 链表
+
 * 1 反转链表 reverse linked list
 * 2 倒序第k个元素
 * 3 k个一次反转
