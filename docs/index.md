@@ -46,18 +46,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # 基本的数据结构
 
 # 链表
-- 反转链表 reverse linked list
-- 倒序第k个元素
-- k个一次反转
-- 两个有序链表的合并
-- k个有序链表的合并
+*1 反转链表 reverse linked list
+*2 倒序第k个元素
+*3 k个一次反转
+*4 两个有序链表的合并
+*5 k个有序链表的合并
 
 # 数组
 
 
 # 栈
-- 最小栈（min stack）
-- 两个栈变成队列
+*1 最小栈（min stack）
+*2 两个栈变成队列
 
 # 队列
 
