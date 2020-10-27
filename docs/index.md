@@ -71,11 +71,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # 树
 ## 二叉树（binary tree）
 * 1 preOrder
+* 1.1 迭代遍历和递归遍历
 * 2 inOrder
 * 3 postOrder
+* 4 二叉树的最大深度
 
 ### 平衡二叉树（balanced binary tree）
 * 1 [检查二叉树是否平衡](https://leetcode-cn.com/problems/check-balance-lcci/)
+* 2 检查是否二叉搜索树
 
 
 
@@ -109,6 +112,45 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## 回溯算法（backtracking）
 
 ## 动态规划（dynamic programming）
+
+
+
+# 计算机网络：
+
+## OSI分层 自顶向下
+
+我们需要重点关注应用层和传输层
+
+
+* 1 应用层
+  应用层有那些协议呢？
+  http、https、DNS、DHCP、SMTP
+
+* 2 传输层
+
+   + 三次握手
+    
+   + 控制层也就是我们常说的TCP、UDP这一层
+    
+   TCP是如何保证可靠连接的？
+  
+   三次握手的时候，第三次失败怎么办？
+   
+   拥塞控制算法？
+   
+   拥塞控制中的慢开始、快重传、
+   
+   UDP怎么转换成TCP？
+   
+
+* 3 网络层
+
+* 4 数据链路层
+
+* 5 物理层
+
+
+
 
 
 
