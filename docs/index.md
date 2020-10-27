@@ -37,7 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-
+---
 
 
 # leetcode
@@ -84,7 +84,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### 二叉搜索树（binary search tree）
 ### 平衡二叉搜索树（balanced binary tree）
-===================
+
+***
+
 # 算法
 ## 二分查找
 ### 二分查找变种
@@ -132,13 +134,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     
    + 控制层也就是我们常说的TCP、UDP这一层
     
-   TCP是如何保证可靠连接的？
+   + TCP是如何保证可靠连接的？
   
-   三次握手的时候，第三次失败怎么办？
+   + 三次握手的时候，第三次失败怎么办？
    
-   拥塞控制算法？
+   + 拥塞控制算法？
    
-   拥塞控制中的慢开始、快重传、
+   + 拥塞控制中的慢开始、快重传、
    
    UDP怎么转换成TCP？
    
