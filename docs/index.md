@@ -47,7 +47,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # 链表
 
-* 1 反转链表 reverse linked list
+* 1 [反转单链表 reverse linked list](https://leetcode-cn.com/problems/reverse-linked-list/)
 * 2 倒序第k个元素
 * 3 k个一次反转
 * 4 两个有序链表的合并
