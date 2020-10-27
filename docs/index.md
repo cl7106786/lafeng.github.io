@@ -126,23 +126,35 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 * 1 应用层
   应用层有那些协议呢？
-  http、https、DNS、DHCP、SMTP
+  http、https、DNS、DHCP、SMTP、SSH、FTP、Telnet
+  
+  http常见状态码的含义：
+  
 
 * 2 传输层
 
-   + 三次握手
+   + 三次握手的过程以及客户端，服务器端的状态变化
+   
+   + 四次挥手的过程以及客户端，服务器端的状态变化
+   
     
    + 控制层也就是我们常说的TCP、UDP这一层
     
    + TCP是如何保证可靠连接的？
+    > 确认机制、重传机制、滑动窗口   
+
   
    + 三次握手的时候，第三次失败怎么办？
    
    + 拥塞控制算法？
    
-   + 拥塞控制中的慢开始、快重传、
+   + 拥塞控制中的慢开始、拥塞避免、快重传、快恢复
+    
+   + 流量控制
    
-   UDP怎么转换成TCP？
+   + UDP怎么转换成TCP？
+   
+   + TCP和UDP的区别？
    
 
 * 3 网络层
