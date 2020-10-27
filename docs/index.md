@@ -52,6 +52,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 * 3 k个一次反转
 * 4 两个有序链表的合并
 * 5 k个有序链表的合并
+* 6 链表元素交换
+* 7 如何判断链表有环
+* 8 确定链表环的位置
 
 # 数组
 
@@ -114,8 +117,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## 回溯算法（backtracking）
 
 ## 动态规划（dynamic programming）
+* 1 下楼梯问题，1步 ，2步
+* 2 小青蛙跳楼梯
 
 
+
+# 智力题：
+  * 1、智力题：腾讯赛马问题：25匹马，5个赛道，没有计数器，找出跑的最快的Top3，最少需要多少次  
 
 # 计算机网络：
 
@@ -124,14 +132,23 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 我们需要重点关注应用层和传输层
 
 
-* 1 应用层
-  应用层有那些协议呢？
+### 1 应用层
+  + 应用层有那些协议呢？
   http、https、DNS、DHCP、SMTP、SSH、FTP、Telnet
   
-  http常见状态码的含义：
+  + http常见状态码的含义：
+  100
+  201, 202
+  301,302
+  401,402
+  501,502
+  + http1.0和http1.1的区别？
+    http2.0做了改进？
+  
+  
   
 
-* 2 传输层
+### 2 传输层
 
    + 三次握手的过程以及客户端，服务器端的状态变化
    
@@ -143,7 +160,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
    + TCP是如何保证可靠连接的？
     > 确认机制、重传机制、滑动窗口   
 
-  
    + 三次握手的时候，第三次失败怎么办？
    
    + 拥塞控制算法？
@@ -156,12 +172,20 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
    
    + TCP和UDP的区别？
    
+   + TCP的缺点是什么？    
+   
+   + TCP 粘包现象
+   TCP粘包是指发送方若干数据到接收方接收时粘成一包，从接收缓冲区来看，后一包数据头紧挨着前一包数据的尾
+   + 为什么出现粘包现象
+   
 
-* 3 网络层
+### 3 网络层
 
-* 4 数据链路层
+### 1 ping命令发生的过程
 
-* 5 物理层
+### 4 数据链路层
+
+### 5 物理层
 
 
 
