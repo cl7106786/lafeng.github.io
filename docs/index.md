@@ -55,6 +55,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 * 6 链表元素交换
 * 7 如何判断链表有环
 * 8 确定链表环的位置
+* 9 [反转链表2，leetcode92](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+* 10 [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 
 # 数组
 
@@ -78,6 +80,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 * 2 inOrder
 * 3 postOrder
 * 4 二叉树的最大深度
+* 5 重建二叉树（根据前序和中序遍历的结构，输出TreeNode）
 
 ### 平衡二叉树（balanced binary tree）
 * 1 [检查二叉树是否平衡](https://leetcode-cn.com/problems/check-balance-lcci/)
@@ -120,6 +123,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 * 1 下楼梯问题，1步 ，2步
 * 2 小青蛙跳楼梯
 
+今天需要把这两个问题搞定：还有重建二叉树
+* 3 按摩师
+* 4 打家劫舍
+
 
 
 # 智力题：
@@ -143,7 +150,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   401,402
   501,502
   + http1.0和http1.1的区别？
-    http2.0做了改进？
+  + http2.0做了改进？
+  + **http和https的区别？**
   
   
   
@@ -162,7 +170,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
    + 三次握手的时候，第三次失败怎么办？
    
-   + 拥塞控制算法？
+   + **拥塞控制算法？**
    
    + 拥塞控制中的慢开始、拥塞避免、快重传、快恢复
     
@@ -186,6 +194,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### 4 数据链路层
 
 ### 5 物理层
+
+
+
 
 
 
