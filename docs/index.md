@@ -81,10 +81,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 * 3 postOrder
 * 4 二叉树的最大深度
 * 5 重建二叉树（根据前序和中序遍历的结构，输出TreeNode）
+* 6 二叉树的最近公共祖先
 
 ### 平衡二叉树（balanced binary tree）
 * 1 [检查二叉树是否平衡](https://leetcode-cn.com/problems/check-balance-lcci/)
-* 2 检查是否二叉搜索树
+* 2 [检查是否二叉搜索树](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 
 
