@@ -81,7 +81,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 * 3 postOrder
 * 4 二叉树的最大深度
 * 5 重建二叉树（根据前序和中序遍历的结构，输出TreeNode）
-* 6 二叉树的最近公共祖先
+* 6 [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 ### 平衡二叉树（balanced binary tree）
 * 1 [检查二叉树是否平衡](https://leetcode-cn.com/problems/check-balance-lcci/)
@@ -119,6 +119,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## 位运算
 
 ## 回溯算法（backtracking）
+* 1[全排列问题] https://leetcode-cn.com/problems/permutations/solution/quan-pai-lie-by-leetcode-solution-2/
 
 ## 动态规划（dynamic programming）
 * 1 下楼梯问题，1步 ，2步
